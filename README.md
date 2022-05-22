@@ -160,7 +160,9 @@ _Опишите, как запустить контрольные тесты, ч
 _Список использованных при реализации структуры данных источников._
 
 https://progler.ru/blog/introsort-ili-introspektivnaya-sortirovka
+
 https://ru.wikipedia.org/wiki/Introsort
+
 http://espressocode.top/introsort-or-introspective-sort/
 
 _**Это не плагиат, это уважение чужого труда и помощь своим сокурсникам более подробно разобраться в теме.**_

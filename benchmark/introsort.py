@@ -89,7 +89,7 @@ def IntrosortUtil(arr,begin, end, depth_limit):
     size = end - begin
     if size < 16:
         # если набор данных небольшой, вставить сортировку вызовов
-        InsertionSort(begin, end)
+        InsertionSort(arr,begin, end)
         return
     if depth_limit == 0:
         # если предел рекурсии достигнут, вызовите сортировку кучи
